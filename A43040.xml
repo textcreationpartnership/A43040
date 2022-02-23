@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sectaries downfall: or, A treatise of the calling of ministers Wherein the orthodox clergie are approved to be the onely true and lawfull pastors of the Church of God. That all others besides them, (pretend what they please) for their usurping the ministry, without any lawfull call, are but thieves and robbers, and seducers of the people. By William Harvey, minister of the Gospell of Iesus Christ.</title>
+            <author>Harvey, William, fl. 1657-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43040</idno>
+            <idno type="STC">Wing H1093A</idno>
+            <idno type="STC">ESTC R218427</idno>
+            <idno type="EEBO-CITATION">99830026</idno>
+            <idno type="PROQUEST">99830026</idno>
+            <idno type="VID">34473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2031:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sectaries downfall: or, A treatise of the calling of ministers Wherein the orthodox clergie are approved to be the onely true and lawfull pastors of the Church of God. That all others besides them, (pretend what they please) for their usurping the ministry, without any lawfull call, are but thieves and robbers, and seducers of the people. By William Harvey, minister of the Gospell of Iesus Christ.</title>
+                  <author>Harvey, William, fl. 1657-1705.</author>
+               </titleStmt>
+               <extent>[8], 40, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. F[orcet],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from colophon.</note>
+                  <note>The final leaf is blank but for colophon on recto.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34473:1" rendition="simple:additions"/>
+            <p>THE SECTARIES DOWNFALL: OR, <hi>A Treatiſe of the Calling of Miniſters.</hi> WHEREIN The Orthodox Clergie are approved to be the onely true and lawfull Paſtors of the Church of GOD. That all others beſides them, (pretend what they pleaſe) for their uſurping the Mini<g ref="char:EOLhyphen"/>ſtry, without any lawfull Call, are but thieves and Robbers, and Seducers of the People.</p>
+            <p>And hee ſpake unto the Congregation, ſaying;</p>
+            <q>Depart I pray you from the Tents of theſe wic<g ref="char:EOLhyphen"/>ked men, and touch nothing of theirs, leaſt yee be conſumed in all their Sins,
+<bibl>Numb. 16.26.</bibl>
+            </q>
+            <q>Theſe be they who Separate themſelves, ſenſuall, having not the Spirit,
+<bibl>Jude, <hi>verſ.</hi> 5.</bibl>
+            </q>
+            <q>Quid magis eſt contra fidem, quam Cred<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re nolle quicquid non poſſis ratione attingere?
+<bibl>Bern.</bibl>
+            </q>
+            <q>Nuſquam eſt, qui ubique eſt.
+<bibl>Seneca.</bibl>
+            </q>
+            <q>Certa amittimus, dum nova petimus.
+<bibl>Plaut.</bibl>
+            </q>
+            <p>By WILLIAM HARVEY, Miniſter of the Goſpell of <hi>Ieſus Chriſt.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>T. F.</hi> 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34473:2" rendition="simple:additions"/>
+            <pb facs="tcp:34473:2"/>
+            <head>TO The Right Honourable, THOMAS RICHARDSON Eſquire, Viſcount <hi>Cramond:</hi> And to his Vertous and Religious Lady.</head>
+            <opener>
+               <salute>Right Hon:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>ENECA writeth of one <hi>Harpastes,</hi> a woman as fooliſh as blind, who wold commonly put the fault in the Houſe ſhe dwelt in. <hi>Ait domum tenebroſam eſſe.</hi> She ſaith the houſe is dark, as if ſhe could ſee well enough. Even ſo our <hi>Sectaries,</hi> and falſe Prophets, although in very deed, they be blind, men of Corrupt minds, reprobate concerning the
+<pb facs="tcp:34473:3"/> Faith, (as the Apoſtle hath it of the Enemies of the truth) 2. <hi>Tim.</hi> 3.8. Yet they uſually complaine of the Times, and ſay, that the Mini<g ref="char:EOLhyphen"/>ſters of God (though Orthodox and godly Learned men formerly) and now, lived, and doe live in darkneſs and ignorance; and ſo cry them downe as wicked and Antichriſtlan, to the great diſhonour of Almigh<g ref="char:EOLhyphen"/>ty God, the diſtraction of his Peo<g ref="char:EOLhyphen"/>ple, and no ſmall advantage to the Enemies of GOD to blaſpheme. Whereupon, being (though unwor<g ref="char:EOLhyphen"/>thy) called to be a Miniſter of the Goſpel; J thought it my Duty (according to my poor Talent) to endeavour to ſtop the mouthes of theſe railing <hi>Rabſhakeh's</hi> and to ad<g ref="char:EOLhyphen"/>moniſh the People (as they tender the good of their Soules) not to follow theſe Strangers, neither know <note n="*" place="margin">Ioh. 10.5.</note> their voyce, but flie from them? I have not publiſhed this enſuing Treatiſe, in hatred to any mans per<g ref="char:EOLhyphen"/>ſon,
+<pb facs="tcp:34473:3"/> or purpoſely to ſhew their na<g ref="char:EOLhyphen"/>kedneſs, but to warne them and the world of their dangerous Errours and tenents which they hold, and (unheard of Pteſumption) without any lawfull Call, or warrant from God to take upon them the Sacred function of a <hi>Miniſter,</hi> and to feed God's people with Poyſon in ſtead of Bread, and ſo (without the mer<g ref="char:EOLhyphen"/>cy of God) giving <note n="*" place="margin">2 Tim. 2.25.</note> them Repen<g ref="char:EOLhyphen"/>tance to the acknowledging of the Truth: incurre damnation to their Soules.</p>
+            <p>I am bold to preſent this poore and unpoliſhed worke unto your Honour, as to a Religious <hi>Obadiah,</hi> who have ever fed the Lords Pro<g ref="char:EOLhyphen"/>phets with bread and water, and as to a Noble <hi>Maecenas,</hi> favouring Learning and Learned men. I hum<g ref="char:EOLhyphen"/>bly deſire your Honours favourable acceptance and Patronage, that through Your hands it may find the better entertainment in the
+<pb facs="tcp:34473:4"/> world. Thus craving pardon for my preſumption; wiſhing to your Hon.<hi rend="sup">rs</hi> and your whole Family, all happineſs, both externall, internall, and Eternall; I reſt in the Lord,</p>
+            <closer>
+               <signed>Your Honours, Moſt humble Servant to be Commanded. WILLIAM HARVEY.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34473:4"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">G</seg>Entle and Chriſtian Reader;</salute>
+            </opener>
+            <p>J have in briefe only touched theſe Foure heads, having ſcarce time to lick them to a forme. If J been ſomewhat free in Speech and incurr'd thy cenſure, I cannot help it, the cauſe required it. Nettles muſt bee cruſhed hard, and Here<g ref="char:EOLhyphen"/>tiques handled roughly. In reproving of Sin, a Miniſter of all other men, muſt not be mealy-mouth'd or remiſſe. <hi>Nihil in Sacerdote tam periculoſum apud Deum, tam turpe apud homines, quàm quid ſen<g ref="char:EOLhyphen"/>tiat veritatem, non liberè pronunciare;</hi> (ſaith <hi>Ambroſe</hi>) Nothing in a Priest is ſo dangerous with God, or ſo baſe with men, as not to declare that freely which he thinks to be Truth. And thus have J cast in my poore Mite; I may (God willing) if occaſion ſerve, put in more; In the mean time I deſire thy acceptance, and beſeech
+<pb facs="tcp:34473:5"/> Almighty GOD to keepe thee from the Apoſtasy of the Times <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Remembring that to the Angell of the Church <hi>of Philadel<g ref="char:EOLhyphen"/>phia:—Behold I come quickly; hold that faſt which thou haſt, that no man take away thy Crowne,</hi> Revel. 3.11.</p>
+            <closer>
+               <signed>Thine in the Lord Jeſus Chriſt, W. HARVEY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34473:5"/>
+            <head>THE SECTARIES DOWNFALL.</head>
+            <list>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>1</label> 1. In the handling of this point, J ſhal obſerve this method. Firſt, J ſhall ſpeake of the Calling of miniſters.</item>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>2</label> 2. Then in the next place, J ſhall treat of their Condition and Qualifications.</item>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>3</label> Thirdly, J ſhall prove that none but thoſe who are lawfully Called ought to teach in the Church.</item>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">section </seg>4</label> Fourthly and laſtly, That every Miniſter being lawfully Called muſt <hi>(hoc agere)</hi> attend onely upon his Calling, without medling with Secular affaires.</item>
+            </list>
+            <div type="section">
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt then, when J ſpeak of Mi<g ref="char:EOLhyphen"/>niſters Calling, you muſt un<g ref="char:EOLhyphen"/>derſtand, that it is from GOD; whether it be immediate or mediate. For Divinity ever teacheth us,—<hi>Nullae<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>prorſus vera est Vocatio, niſe ab ipſo Deo facta.</hi> There is no
+<pb n="2" facs="tcp:34473:6"/> true Calling except it be from God him<g ref="char:EOLhyphen"/>ſelfe. Thus wee read in <hi>Math.</hi> 9. verſ. 38. That it is God alone that ſendeth forth la<g ref="char:EOLhyphen"/>bourers into his Harveſt. Pray therefore the Lord of the harveſt, that hee will ſend forth Labourers into his harveſt. And the Apoſtle ſaith, 1. <hi>Cor.</hi> 12.28. And God hath ſet ſome in the Church; firſt <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> ſecondarily, <hi>Prophets;</hi> thirdly, <hi>Tea<g ref="char:EOLhyphen"/>chers,</hi> &amp;c.</p>
+               <p>Now this Calling is two-fold. An im<g ref="char:EOLhyphen"/>mediate Calling, and a mediate Calling. The immediate Calling, otherwiſe ſpeciall and extraordinary, is that which is from God himſelfe, <hi>abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> hominum Miniſteri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> without the Miniſtry or ſervice of men.</p>
+               <p>And this God hath done either by him<g ref="char:EOLhyphen"/>ſelf without a Meſſenger, as when he cal<g ref="char:EOLhyphen"/>led <hi>Moſes, Iohn</hi> the Baptiſt, and the Apo<g ref="char:EOLhyphen"/>ſtles; or ſecondly by certaine Meſſengers, as when God called <hi>Aaron</hi> by <hi>Moſes, Exod.</hi> 4.14. and <hi>Eliſha</hi> by <hi>Eliah,</hi> 1 <hi>Kings</hi> 19.19.</p>
+               <p>This Calling is ever accompanied with certain extraordinary teſtimonies &amp; guifts of the Holy Ghoſt, which are as it were Seales of divine Doctrine, and heavenly inſpiration. And withall, it is accompaini<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:34473:6"/> with more then ordinary Sanctity of life and converſation. But this extraordi<g ref="char:EOLhyphen"/>nary Calling muſt not now be expected in a Conſtituted Church, being of uſe onely in former times, when either the Corrupti<g ref="char:EOLhyphen"/>on of the Miniſtry, or degeneration of the Miniſtrers required it.</p>
+               <p>What warrant then have our blind En<g ref="char:EOLhyphen"/>thuſiaſts, our Bedlam <hi>Quakers, Adamites, Seekers,</hi> and the reſt of the rabble, to ſow their tares of damnable Doctrine among the pure Wheat of GOD's ſacred Word, under the pretence of Divine inſpirati<g ref="char:EOLhyphen"/>on, and immediate Calling of Almighty God?</p>
+               <p>I have read of a certaine Munk, <hi>qui gloriari non erubuit</hi>
+                  <note n="*" place="margin">
+                     <hi>Sozomenus</hi> Lib. 3 cap. 14.</note>, who was not aſha<g ref="char:EOLhyphen"/>med to brag, that the lawfulneſſe of his Order, he had given him from the authori<g ref="char:EOLhyphen"/>ty of an Angell. The Saracens deſcended from <hi>Hagar,</hi> that was the bond-woman, call themſelves <hi>Sarazens,</hi> as if they came from <hi>Sarah</hi> the free-woman. And theſe mungrell Chriſtians would make men be<g ref="char:EOLhyphen"/>leeve they deſcend from heaven, when in<g ref="char:EOLhyphen"/>deed they aſcend from Hell, and their workes which they ſay are by Divine in<g ref="char:EOLhyphen"/>ſpiration, are by a Diabolicall deluſion.
+<pb n="4" facs="tcp:34473:7"/> Theſe men are like Conjurers, who will have the names of God about their Circle, when they are raiſing the Devill.</p>
+               <p>But if they be extraordinarily called as they ſay, let them ſhew us their extraordi<g ref="char:EOLhyphen"/>nary Holineſſs, Learning, and guifts of Gods Spirit. Ah poore men! if they come to this touchſtone once, their falſe Coine will ſoone appeare. The baſtard Eagle cannot behold this bright Sun. Pray what learning is this, to Call all the Miniſters of the Goſpell, deceivers of the People, to cry downe Tithes, and call their lawfull maintenance Antichriſtian; What lear<g ref="char:EOLhyphen"/>ning, to deny the God-head of our Savi<g ref="char:EOLhyphen"/>our CHRIST JESVS; to ſay, that there is no Hell, but that in a mans Conſcience; that all things come by Nature; that baptizing of Infants, is unlawful; to de<g ref="char:EOLhyphen"/>ny Obedience to lawfull authority, and a world of ſuch ſtuffe. And for Holineſſe, I bluſh that they are not aſham'd to ap<g ref="char:EOLhyphen"/>propriate it to themſelves, when no Swine wallowes more in the mire, then they in Sinne; but I'le ſtirre the Dung-hill no further leaſt it raiſe a ſtinke.</p>
+               <p>THe Mediate, or common and Ordina<g ref="char:EOLhyphen"/>ry calling, is that Calling of God by ordi<g ref="char:EOLhyphen"/>nary
+<pb n="5" facs="tcp:34473:7"/> meanes, or by the Miniſtry of the Church by fit men appointed thereunto. Although this Calling is by the Miniſtry of men, yet nevertheleſſe it is Divine as well as the other, and hath God likewiſe for its author.</p>
+               <p>For God, not onely appoints in his Church, Apoſtles (immediatly called) but alſo Teachers, that are mediatly Called, by the Miniſtry of men, as you ſhall find 1. <hi>Cor.</hi> 12.28. and <hi>Epheſ.</hi> 4.11. And the Holy Ghoſt is ſaid to have made and ap<g ref="char:EOLhyphen"/>pointed Biſhops and Elders in <hi>Epheſus,</hi> who yet were not extraordinarily called by CHRIST but were Ordinary ordained by the Apoſtles, <hi>Acts</hi> 20.28. Whereupon they are called the Embaſſadors of Chriſt; as you have it, 2 <hi>Cor.</hi> 5.20. And for this cauſe our saviour himſelfe ſaith; he that heareth you, heareth me, and hee that de<g ref="char:EOLhyphen"/>ſpiſeth you, deſpiſeth me, &amp;c. <hi>Luke</hi> 10,16. Hence that Protomartyr <hi>Stephen,</hi> tels the <hi>Iewes,</hi> Yee doe alwaies reſiſt the Holy Ghoſt, as your Fathers did, ſo doe yee, <hi>Acts</hi> 7.51. And St. <hi>Paul</hi> to the <hi>Theſſalo<g ref="char:EOLhyphen"/>nians</hi> ſaith, He therefore that deſpiſeth, de<g ref="char:EOLhyphen"/>ſpiſeth not Man, but GOD, &amp;c. 1. <hi>Theſ.</hi> 4.8.</p>
+               <pb n="6" facs="tcp:34473:8"/>
+               <p>But the Queſtion is, who ought (all this while) to ordaine and make Miniſters. The <hi>Politicks</hi> ſay, this is in the power of the Secular Magiſtrate. The <hi>Anabaptiſts,</hi> they aſcribe it to the <hi>Plebeans,</hi> the mixed multitude, and the <hi>Catholicks</hi> give it all to Biſhops. Now, what is this. One ſaith, the Child is his, the other his, and the third, his. Can one Child belong to three Wo<g ref="char:EOLhyphen"/>men; no. Who then is the Mother of the Child? They all make claime unto it; Well, I am but a foole to <hi>Solomon,</hi> yet I will give it to none, but ſhare it amongſt them. The whole Church hath right to this Ordination, and the ſeverall Orders of Epiſcopacy, Magiſtracy, and People muſt have their due proportion.</p>
+               <p>In Confirmation hereof, that thou maiſt be confident of it; the practice of the Church in the Apoſtles time ſhoweth; This manifeſt in the choice and Ele<g ref="char:EOLhyphen"/>ction of <hi>Matthias, Acts</hi> 1.15.23. And in the Election of the ſeaven Deacons, the point is cleere, <hi>Acts</hi> 6.23 &amp;c. Where, in the ſixth verſe, wee reade; And the ſaying pleaſed the whole Multitude, and ſo forth. Their approbation was thought neceſſary in ſo weighty a matter
+<pb n="7" facs="tcp:34473:8"/> And in the 15. of the <hi>Acts,</hi> 2.22. it is ſaid; Then pleaſed it the Apoſtles, and Elders, with the whole Church, to ſend Choſen men of their owne company to <hi>Antioch,</hi> with <hi>Paul</hi> and <hi>Barnabas,</hi> namely <hi>Judas</hi> ſirnamed <hi>Barſabas,</hi> and <hi>Silas,</hi> chief men among the Brethren. Here <hi>Bellarmine</hi> cavils, and ſaith, that this Conſent of the Church,—<hi>Non ex quadam neceſſitate, ſed ex</hi> Petri <hi>conceſſione;</hi> It was not of any neceſſity, but of <hi>Peters</hi> Conceſſion only.</p>
+               <p>This is as good Divinity as another of his owne ſide, who by theſe words of CHRIST, <hi>(Let theſe goe their way)</hi> would needs defend the lawleſſe eſtate of Clergie men, But ſaith <note n="*" place="bottom">In <hi>Eraſ.</hi> Annot. 18. <hi>Iohn.</hi>
+                  </note> 
+                  <hi>Eraſmus,</hi> this did hee doe <hi>Ridiculé,</hi> fondly or foo<g ref="char:EOLhyphen"/>liſhly.</p>
+               <p>If the Cardinall had but read that of the <hi>Acts</hi> cap. 6. ver. 3. afore-named, he would have found there, That it was not <hi>Peter's</hi> grant alone, but of all the reſt of the Apo<g ref="char:EOLhyphen"/>ſtles; The text is plaine. <hi>Wherefore Bre<g ref="char:EOLhyphen"/>thren, looke yee out among you Seaven men of honeſt report, full of the Holy Ghost, and Wiſdome, whom wee may appoint over this buſineſſe.</hi> And this way of Ordination, the
+<pb n="8" facs="tcp:34473:9"/> Primative Church, having it (as it were) by tradition from the Apoſtles own hands, alwaies Religiouſly obſerved it.</p>
+               <p>As appeareth by this: <hi>Ordinationes Sacerdotales non niſi ſub Populi aſſiſtentis conſcientia fieri oportet, ut plebe praeſente, vel detegrantur malorum crimina, vel bonorum merita Praedicentur; &amp; ſit Or<g ref="char:EOLhyphen"/>dinatio juſta &amp; Legittima quae omnium Suffragio &amp; judicio fuerit examinata</hi>
+                  <note n="*" place="margin">In De<g ref="char:EOLhyphen"/>cret 15. Diſt San<g ref="char:EOLhyphen"/>cta R<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>na. T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſte <hi>Eraſmo,</hi> Praefat. in <hi>Cyprian.</hi> lib 1. E<g ref="char:EOLhyphen"/>piſt 4.</note>. The Ordinations of Prieſts ought not to be made, unleſſe the <note n="*" place="margin">By Peo<g ref="char:EOLhyphen"/>ple is not meant the Ignorant and facti<g ref="char:EOLhyphen"/>ous, but the godly and judi<g ref="char:EOLhyphen"/>cious.</note> People have know<g ref="char:EOLhyphen"/>ledge of it, that ſo being preſent, the faults of wicked men may be detected, or the deſerts of good men made knowne; and that is a juſt and lawful Ordination, which ſhall be by the Suffrage and judge<g ref="char:EOLhyphen"/>ment of all. Not including any <hi>Sectaries,</hi> for they by no meanes muſt be admitted, or have any voice here.</p>
+               <p>As for the Magiſtrate, we all know, (if the People) much more he hath a voice in this our Ordination. In the Election of <hi>Ambroſe,</hi> though the People did chooſe him it was ratified and confirmed by the Emperor <note n="*" place="margin">Socrat lib 4. C. 25 Tripar lib. 7. cap. 8.</note> 
+                  <hi>Valentinian</hi> And when <hi>A<g ref="char:EOLhyphen"/>thanaſius</hi> had nominated one <hi>Peter</hi> to
+<pb n="9" facs="tcp:34473:9"/> ſucceed him, that Voyce (as <hi>Theodoret</hi> doth witneſs) was confirmed, not only by the Prieſt and People, but by the appro<g ref="char:EOLhyphen"/>bation of the Magiſtrate.</p>
+               <p>To make an end, one <hi>Iames Pamelius</hi> in his Annotations to <hi>Cyprian,</hi> confeſſeth; that not only in <hi>Africa,</hi> but also in <hi>France, Spaine, Rome,</hi> and every where, this was the cuſtome. And ſaith further, that it ſo continued all the times of the Emperours <hi>Charles</hi> the Great, and <hi>Ludovick</hi> the Godly.</p>
+               <p>And thus J hope I have given you ſatisfaction in this Particular. Where the Biſhop ordaines, the People approve, and Magiſtrate confirmes, there's a lawfull Ordination. Thoſe therefore whom God hath joyned together, let no man put a ſunder; Take them together, and they are a perfect harmony, but once ſeperate them, and they foully jarre, and are out of tune.</p>
+               <p>The <hi>Catholicks</hi> therefore doe greatly erre, and are much out of the way, in giving this Power and juriſdiction ſolely to the Biſhops. Thoſe be the words of the Councill of <hi>Trent.</hi>
+               </p>
+               <pb n="10" facs="tcp:34473:10"/>
+               <p>
+                  <hi>Sacerdotum</hi> 
+                  <note n="*" place="margin">Concil. Trident de Sacrament Ordin. cap. 4.</note> 
+                  <hi>&amp; caterorum ordinum, nec Populi, nec cujuſvis Secularis pote<g ref="char:EOLhyphen"/>ſtatis &amp; Magiſtratus Concenſum, ſive vocationem, ſive aucthoritatem ita re<g ref="char:EOLhyphen"/>quiri, ut ſine ea irrita ſit Ordinatio.</hi> Of the Prieſts and of the other Orders, the Conſent or calling, or Authority, neither of the People, nor any Secular power and Magiſtrate is to be ſought af<g ref="char:EOLhyphen"/>ter; that without it, the Ordination is unlawfull.</p>
+               <p>But on the Contrary, ſuch as are choſen and ordained by the People and Magi<g ref="char:EOLhyphen"/>ſtrate, they ſay, they are not Miniſters of the Church, but Thieves and Robbers. And <hi>Bellarmine</hi> to maintaine the aſſerti<g ref="char:EOLhyphen"/>on of his Errour, brings that example of <hi>Aaron,</hi> who by <hi>Moſes</hi> alone, without the conſent of the People, was choſen to be the high Prieſt; and likewiſe that of our Saviour, who choſe his Apoſtles with<g ref="char:EOLhyphen"/>out the ſuffrage or conſent of the People.</p>
+               <p>But what of all this? Theſe examples make nothing for him; becauſe they be<g ref="char:EOLhyphen"/>long to the immediate Calling; and our queſtion is concerning the Mediate or or<g ref="char:EOLhyphen"/>dinary Calling. For (as J ſaid before) this immediate Calling muſt not now be ex<g ref="char:EOLhyphen"/>pected,
+<pb n="11" facs="tcp:34473:10"/> being extraordinay, and long ſince out of date.</p>
+               <p>Neither muſt the <hi>Anabaptiſts,</hi> and <hi>Po<g ref="char:EOLhyphen"/>liticks,</hi> thinke to carry it; they have as little right (of themſelves) as the other; For that which belongs to all, concernes all; ought not to be done by the Com<g ref="char:EOLhyphen"/>mand and authority of One, but joyntly with the conſent and approbation of All. Away then with the rude Multitude, they by no means muſt meddle with the Helm, ſit at the Sterne, leaſt by their unskilful<g ref="char:EOLhyphen"/>neſs, and wilfulneſs they runne their Veſ<g ref="char:EOLhyphen"/>ſell a ſhore, and ſo miſerably make ſhip<g ref="char:EOLhyphen"/>wrack of all. They are like the troubled Sea, whoſe waters caſt up mire and dirt. From ſuch violent inundations, and dan<g ref="char:EOLhyphen"/>gerous breaking in; <hi>Good Lord deliver us.</hi>
+               </p>
+               <p>And you, who are ſaid to be Gods, and Sons of the moſt high; yet ſeeing you muſt dye like men, and fall like one of the Princes; take heed (J pray) that you do not appropriate that to your ſelves which is not proper; For there is a vaſt difference betweene a <hi>Politicall</hi> King<g ref="char:EOLhyphen"/>dome, and an <hi>Eccleſiaſticall</hi> Govern<g ref="char:EOLhyphen"/>ment. You remember what the King of
+<pb n="12" facs="tcp:34473:11"/> Kings, and Lord of Lords ſaid: <hi>My Kingdome is not of this World,</hi> John 18. verſ. 36. And this calling belongs not to power of the Magiſtrate, but to the juriſ<g ref="char:EOLhyphen"/>diction of the Kingdome of CHRIST. Let them not therefore ſend what Labou<g ref="char:EOLhyphen"/>rers they pleaſe into God his harveſt, without approbation of the People, and Ordination of the Biſhop: Where this Order is not obſerv'd, but prepoſterouſly caſt off and neglected; The <note n="*" place="margin">Miniſterij auctoritas proſti<g ref="char:EOLhyphen"/>tuitur Conſcientiae vulneran<g ref="char:EOLhyphen"/>tur, Eccleſiae ſal<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> turbatur, &amp; Senſim ac ſenſim tandem de<g ref="char:EOLhyphen"/>ſtruitur. <hi>Dieter. Annal. Evan<g ref="char:EOLhyphen"/>gel. in dic Sanctae</hi> Andreae.</note> authority of the Miniſtry is pro<g ref="char:EOLhyphen"/>ſtituted, mens Conſci<g ref="char:EOLhyphen"/>ences are wounded, the ſafety of the Church is trouubled; and by lit<g ref="char:EOLhyphen"/>tle and little is at length deſtroyed. And ſo I come to my ſecond head; which was the Condition and qualification of the Mi<g ref="char:EOLhyphen"/>niſtry.</p>
+            </div>
+            <div type="section">
+               <p>FIrſt then, the man of God muſt be no Ignorant perſon; or Novice, but in<g ref="char:EOLhyphen"/>dued (if not with eminent) yet at leaſt with Competent knowledge. <hi>Romes</hi> mo<g ref="char:EOLhyphen"/>ther of Devotion <hi>(Ignorance)</hi> muſt have no roome here. The Apoſtle St. <hi>Paul</hi> wri<g ref="char:EOLhyphen"/>ting
+<pb n="13" facs="tcp:34473:11"/> of a Biſhop (among other things) hee would him <hi>Didacticon;</hi> one apt to teach, 1 <hi>Tim.</hi> 3.2. And after he had ſpoken of the Scripture, how it was given by inſpi<g ref="char:EOLhyphen"/>ration <note n="*" place="margin">2 Tim. 3.16,17.</note> of GOD, and was profitable for Doctrine, for Reproof, for Correction, for inſtruction in Righteouſneſs, hee thus cloſeth; <hi>That the man of God may be perfect, thorowly furniſhed unto all good workes.</hi> And the ſame Apoſtle in his Epi<g ref="char:EOLhyphen"/>ſtle to <hi>Titus,</hi> 1 Chap. verſ. 9. Speaking likewiſe of a Biſhop or Miniſter, hath theſe words; <hi>Holding fast the faithfull Word, as he hath been taught, that he may be able by ſound Doctrine, both to exhort, and to Convince the gain-ſayers.</hi>
+               </p>
+               <p>In the ſecond place (and it is nothing inferiour to the firſt) as they muſt be able and ſufficient; So they muſt be of an Honeſt, Civill, and godly deportment; They muſt teach not by Precept onely but by Example.—<hi>Sicut Miniſter eccle<g ref="char:EOLhyphen"/>ſiae doceri debet propter ſuae adminiſtratio<g ref="char:EOLhyphen"/>nis officium, ita Sanctè vivere debet prop<g ref="char:EOLhyphen"/>ter exemplum.</hi> (<hi>Proſper de Vita contempl. Cap.</hi> 5.) As a Miniſter of the Church (ſaith hee) ought to teach for the Office of his adminiſtration; ſo likewiſe, he ought
+<pb n="14" facs="tcp:34473:12"/> to live Holy for examples ſake. The A<g ref="char:EOLhyphen"/>poſtle (in the foreſaid firſt Epiſtle to <hi>Tim.</hi> 3.2.) would have ſuch to be Biſhops, who are <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; that is to ſay, <hi>Brambles,</hi> or <hi>Irreprehenſible.</hi> See to this purpoſe, firſt Chapter to <hi>Titus,</hi> 2.6. and ſo forward; where wee have at large, how Miniſters ought to be Qualified.</p>
+               <p>As a man conſiſteth of Soule and Body, So alſo a Miniſter conſiſteth of Learning and Living; theſe two muſt meet in a man of God, if hee would be compleat; But God he knoweth, wee have many (for all the cry of <hi>Reformation</hi> and <hi>New lights</hi>) that have neither Learning nor Life. And where happily, or rather un<g ref="char:EOLhyphen"/>happily one hath Learning, he wants life; A rare thing to ſee them meet in one cen<g ref="char:EOLhyphen"/>ter, and like the <hi>Jemini</hi> in the <hi>Zodiack</hi> to embrace each other. Should the light of the Sun be once turn'd to darkneſs, what would become of all Sublunaries? For without its light and heat, nothing could long ſubſiſt. The Miniſters of Gods word are the Light of the world; ſo our Savi<g ref="char:EOLhyphen"/>our, <hi>Yee are the Light of the world.</hi> And this light conſiſteth in Learning and Holineſs of life and converſation. Now
+<pb n="15" facs="tcp:34473:12"/> where this Light is wanting, the people of God are in a ſad condition. They are call'd <hi>Watchmen,</hi> and <hi>Shepheards;</hi> If they ſleepe, the Tower is in danger to be ſur<g ref="char:EOLhyphen"/>prized by the Enemy, and the Sheepe ei<g ref="char:EOLhyphen"/>ther ſcattered or devoured. <hi>Seneca</hi> wri<g ref="char:EOLhyphen"/>ting of a Governour of a Ship, ſaith,—<hi>Non</hi> * <hi>eſt loquendum, ſed gubernandum.</hi> He muſt not talke, but guide and rule his Veſſell: In like manner, the man of God muſt not talke, but endeavour to bring the ſhip of mens Soules, to the Ha<g ref="char:EOLhyphen"/>ven of heaven. And good reaſon hee hath to be carefull, in regard of the many Rocks and ſands in his way, and violent ſtormes he often meets with. Let me free<g ref="char:EOLhyphen"/>ly ſpeake to thee, thou who art Called to Preach the Goſpell, and to be a Miniſter of CHRIST. What is it thou haſt undertaken? A Calling of that burthen and weight, as would require an <hi>Atlas,</hi> or <hi>Sampſon</hi> to beare it; Thou haſt the care of Soules committed to thee, and if any periſh through thy negligence, their blood ſhall bee required at thy hand. What eare can heare this and not tingle? Whoſe heart doth not either bleed or trem<g ref="char:EOLhyphen"/>ble, to thinke on't. Heare what St. <hi>Paul</hi>
+                  <pb n="16" facs="tcp:34473:13"/> ſaith to <hi>Timothy;</hi> * <hi>Preach the Word, be inſtant in Seaſon, out of ſeaſon Reprove, rebuke, exhort with all long ſuffering and Doctrine.</hi>
+               </p>
+               <p>How wilt thou one day be wrapt with Confuſion as with a cloake, when thou appeareſt before the judgement Seat of CHRIST, to give an accompt of thy Stewardſhip? How will thy heart then daſh and beat, as the waves of the Sea; what Lightning, Thunder, Death, and hell wilt thou feele in thy Conſcience? To the Hills and Rocks wilt thou cry, fall on me, and hide me from the preſence of him that <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itteth on the Throne, and from the wrath of the Lambe. What a hell will it be to thee to thinke that by thy Example and Idleneſs, many have periſhed everla<g ref="char:EOLhyphen"/>ſtingly, and that thereby thy Sins are not onely aggravated, but thy torments in<g ref="char:EOLhyphen"/>creaſed and multiplyed. Well, the Om<g ref="char:EOLhyphen"/>nipotent GOD, with whom nothing is impoſſible, give thee more grace, that thou mayeſt have more care of thy Selfe, and thy flocke committed to thy charge, <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="17" facs="tcp:34473:13"/>
+               <p>Now I come to prove that none but ſuch who are lawfully called, ought to teach in the Church, which was my third particular. Heare what the Lord ſaith of the Prophets, who without a Call preſu<g ref="char:EOLhyphen"/>med to ſpeake to the people. I have not ſent theſe Prophets (ſaith GOD) yet they ran; I have not ſpoken to them, yet they Propheſied, <hi>Ier.</hi> 23.21. As much as if the Holy Ghoſt had ſaid in plaine words; <hi>No man without a lawfull Calling ought to Propheſie.</hi> The Apoſtle herein is poſitive and obvious, <hi>Rom,</hi> 10.15. Where hee in<g ref="char:EOLhyphen"/>terrogates thus: And how ſhall they Preach, except they be ſent? As if he had ſaid; They cannot Preach (that is law<g ref="char:EOLhyphen"/>fully) except they be ſent.</p>
+               <p>And it is very true; For the Eccleſi<g ref="char:EOLhyphen"/>aſticall Miniſtry hath relation to divine Calling and Miſſion, whoſe <hi>ultimum</hi> and end, is the Preaching of the Goſpel; For they are ſent onely to Preach. But when men have no Divine, or lawfull calling, how J pray you can their Preaching bee lawfull? And further, to corroborate my aſſertion, wee are prohibited to hearken to ſuch as want this Divine and lawfull cal<g ref="char:EOLhyphen"/>ling. Therefore hearken not unto the
+<pb n="18" facs="tcp:34473:14"/> words of the Prophets that ſpeake unto you; ſaying, Yee ſhall not ſerve the King of <hi>Babilon;</hi> for they Propheſie a lye unto you, For I have not ſent them, &amp;c. <hi>Jer.</hi> 27.14,15. and Chap. 29.8,9. For thus ſaith the Lord of Hoſts, the God of Iſrael; Let not your Prophets and your Deviners, that be in the midſt of you, deceive you, neither hearken to their Dreames which they cauſe to be dreamed; For they Pro<g ref="char:EOLhyphen"/>pheſie falſly unto you in my Name: J have not ſent them, ſaith the Lord.</p>
+               <p>What need many words! The Church is a houſe, and this Epithite St. <hi>Paul</hi> giveth the Church, 1 <hi>Tim.</hi> 3.15. But if I tarry long, that thou mayeſt know how thou oughteſt to behave thy ſelfe in the houſe of GOD, which is the Church of the living God, &amp;c. And <hi>Heb.</hi> 3.6. But CHRIST as Son over his owne houſe, whoſe Houſe are we, &amp;c. And our Saviour, when he drave out thoſe which bought &amp; ſold in the Tem<g ref="char:EOLhyphen"/>ple ſaid to them; It is written, <hi>My Houſe ſhall be called the houſe of Prayer, &amp;c.</hi>
+               </p>
+               <p>Hence J argue, That no man ought or can challenge to himſelfe the rule end go<g ref="char:EOLhyphen"/>vernance of this Houſe, but he whom the Lord of the houſe (who is God) ſhall ap<g ref="char:EOLhyphen"/>point.
+<pb n="19" facs="tcp:34473:14"/> Take an argument from the Leſſer to the greater, and this folly will ſoone appeare.</p>
+               <p>Should one take upon him to Command and rule in another mans houſe, without leave from the Maſter of it, I believe hee would ſcarce brooke ſuch inſolency and unmannerly deportment. And as for him, all would admire, and wonder at the mans impudency. Much leſſe ſufferable it is, for one ſo to demeane him ſelf in the Church, which is the houſe of GOD.</p>
+               <p>I muſt encounter now with no leſſe then Two, and two to one is ods; yet, by the grace of God, I hope, I ſhall come off fair enough.</p>
+               <p>And firſt, J ſhall ask our Thieves and Robbers, <hi>Ioh.</hi> 10.1. why they entred not by the doore into the Sheep-fold, but climbed up ſome other way? Why by force they intrude themſelves into the Miniſtry? O good God, how is thy houſe of Prayer be<g ref="char:EOLhyphen"/>come a den of Thieves! What Blaſphe<g ref="char:EOLhyphen"/>mies, Hereſies and Doctrine of Devils, are every where belch'd forth by thoſe that runne, without thy ſending! How is thy Sanctuary laid waſt! Thy ſervants, the faithfull Miniſters of the Goſpel, (if not
+<pb n="20" facs="tcp:34473:15"/> kill'd or ſtoned) yet at leaſt, baniſh'd and Impriſoned, or by baſe and rude hands, beaten and buffeted! Truth now gets ha<g ref="char:EOLhyphen"/>tred, and Flattery friends.—<hi>O Tempora, O Mores!</hi> O the Times, and manners of Men! <hi>O Praeſumtionem, O Conſuetudi<g ref="char:EOLhyphen"/>nem!</hi> (as Golden mouth'd <hi>Chryſoſtome,</hi> ſaid in his dayes) O what Preſumption, what Cuſtome is this! never knowne or heard of, but in theſe later times of Refor<g ref="char:EOLhyphen"/>mation. Now every beardleſs Boy, and broken Shop-keeper, will ſtep into a Pul<g ref="char:EOLhyphen"/>pit, and there (Parrat-like) prate what they know not themſelves, and indeed, how ſhould they doe otherwiſe, when they ſpeake that which God never put in their mouthes.</p>
+               <p>Theſe are the Foxes, who ſpoyle the Vines, but plant them not, <hi>Cantic.</hi> 2.15. J would to God they were taken. Theſe are they which hatch Cockatrice eggs, and weave the Spiders web: hee that eateth of their Egges, dyeth, &amp;c. <hi>Iſa.</hi> 59.5. <hi>Au<g ref="char:EOLhyphen"/>ditores interimentes, nou re<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>cientes</hi> (as one ſaith,) Killing their hearers, and not re<g ref="char:EOLhyphen"/>freſhing them. Theſe are they, who uſurp the Prieſthood with <hi>Corah, Dathan,</hi> and <hi>Abiram;</hi> Let them beware, that the Earth
+<pb n="21" facs="tcp:34473:15"/> open not her mouth and ſwallow them up &amp;c. and they goe downe quick into the Pit, &amp;c. <hi>Numb.</hi> 16.30. <hi>&amp;c.</hi>
+               </p>
+               <p>Who almoſt would believe it, that our Nation, which is bleſſed and happie in the injoyment of ſo many brave and Learned men, ſhould have a company of <hi>Sectaries</hi> to trouble it! Who would think, that we who (not long ſince) were envied for our Church <hi>Diſcipline;</hi> being ſo Compleat in every particular, that no <hi>Chriſtian Church</hi> in the world might Paralell it; So that a noble <hi>Frenchman</hi> brake forth in theſe words,—<hi>Clerus Anglus ſtupor mundi.</hi> The <hi>Engliſh Clergie</hi> is the wonder of the World; ſhould now be either deſtroyed, or diſturb'd by a ſort of Heretiques and Schiſmatiques? In comes your <hi>Anabaptiſt, Quaker, Seeker, Adamite,</hi> and I know not what rabble; <hi>Qui ſic bacchanantur in Provinciis, &amp;c.</hi> (as one writeth of the <hi>Popes</hi> Legats) That ſo revell it in the Pro<g ref="char:EOLhyphen"/>vinces, and make ſuch havock where they come, as if the Divell was let looſe to Scourge and trouble Gods Church.</p>
+               <p>Have theſe men a Calling for it, J am confident of it (ſetting their ſeduced <hi>Pro<g ref="char:EOLhyphen"/>ſelites</hi> aſide) they have neither God nor
+<pb n="22" facs="tcp:34473:16"/> man for them. If you will have my judg<g ref="char:EOLhyphen"/>ment, They are like Frogs and Toades, <hi>Sponte naſcentia,</hi> who come up of them<g ref="char:EOLhyphen"/>ſelves, bred onely by Corruption. I will end with that of Pope <hi>Boniface</hi> the 8.th, who like theſe fellowes, came to the Pope<g ref="char:EOLhyphen"/>dome, as they preſume to come into our Churches without divine Calling, by ſi<g ref="char:EOLhyphen"/>niſter wayes and by Corruption. <hi>Intravit ut Vulpes regnavit ut Leo, moriuus ut Canis;</hi> He came in as a Fox, hee raigned as a Lion, and he dyed like a Dog.</p>
+               <p>In the next place, I have ſome thing to ſay to the People, who follow and runne after theſe blind Guides. Wee have a Pro<g ref="char:EOLhyphen"/>verb, <hi>The receiver is as bad as the thiefe;</hi> and indeed, were it not for their ſeverall Congregations, theſe <hi>new Lights</hi> would ſoone be put out; take away the fewell, and the fire will goe out of it ſelfe. Let there be no wind ſtirring, and the Mariner will ſayle but ſlowly. A Traytor<g ref="char:punc">▪</g> who is a ſhame and bane to his Countrey, what is hee without his fellowes. And therefore the People are in as much fault as their Prophets; for ſhould not they ſo flock unto them, their Cake would quickly be
+<pb n="23" facs="tcp:34473:16"/> dough. We have an expreſſe prohibition to the contrary, <hi>Jer.</hi> 27.14,15. Therefore hearken not unto the words of the Prophets that ſpeak unto you, ſaying; Yee ſhall not ſerve the King of <hi>Babilon;</hi> for they Prophe<g ref="char:EOLhyphen"/>ſie a lye unto you; <hi>For J have not ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt them, &amp;c.</hi> This is a true mark of the ſheep of CHRIST, that they will not follow a Stranger, but will flie from him <hi>Ioh.</hi> 10.5. And a ſtranger will they not follow, but will flie from him; for they know not the voice of Strangers. And in the 14. <hi>verſ. I am the good Shepheard, and know my ſheepe, and am knowne of mine.</hi>
+               </p>
+               <p>When <hi>Chryſoſtome</hi> was baniſhed, one <hi>Arſacius</hi> without any lawfull or ordinary Calling, ſucceedeth him: But in the Church of <hi>Conſtantinople,</hi> no Chriſtian or faithfull man, thought him worthy their audience, or a word from their mouthes, as <hi>Theo<g ref="char:EOLhyphen"/>doret, Sozomen,</hi> and <hi>Nicephorus</hi> write. <hi>Theod. lib.</hi> 5. <hi>cap.</hi> 34. <hi>Sozom. lib.</hi> 8. <hi>cap.</hi> 23. <hi>Niceph. lib.</hi> 3. <hi>cap.</hi> 22. It is recorded of the <hi>Samoſatenians,</hi> that neither Rich nor poor, Man nor Woman, young nor old, would come to the Eccleſiaſticall Convent of an <hi>Arrian</hi> Biſhop <hi>Theod. lib.</hi> 4. <hi>hiſt. Eccl. Cap.</hi> 14. So hatefull to them were the Sect of
+<pb n="24" facs="tcp:34473:17"/> the <hi>Arrians.</hi> When one <hi>Jovianus,</hi> who ſometime was in the parts of the <hi>Arrians,</hi> offered to Conſecrate <hi>Antiochus;</hi> hee refu<g ref="char:EOLhyphen"/>ſed it, ſaying; <hi>Abſit ut manus tu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> me con<g ref="char:EOLhyphen"/>ſecret.</hi> Be it farre from me that thy hand ſhould Conſecrate me, <hi>Theod. lib.</hi> 4. <hi>cap.</hi> 11.</p>
+               <p>Yet ſee the inconſtancy and levity of many thouſands of people, who are toſſed too and fro, and carried about with every wind of Doctrine, which the Apoſtle ſtraightly forbid us, <hi>Epheſ.</hi> 4.14. And <hi>Heb.</hi> 13.9. <hi>Be not carried</hi> (ſaith he) <hi>about with divers and ſtrange Doctrines, &amp;c.</hi> St. <hi>John</hi> in his ſecond <hi>Epiſt.</hi> verſe 10.11. ſaith; <hi>If there come any unto you and bring not this Doctrine, receive him not into your bouſe, neither bid him God ſpeed; For hee that biddeth him God ſpeed, is partaker of his evill deeds.</hi> Yet J ſay, there is no Sect, be it never ſo ſimple and damnable, but hath its Diſciples and followers.</p>
+               <p>What a traine after them, have your <hi>A<g ref="char:EOLhyphen"/>nabaptiſt;</hi> I may ſay of them as <hi>Balak</hi> ſaid of the Children of <hi>Iſrael;</hi> Behold they cover the face of the Earth. What River almoſt, whoſe ſtreames have not been de<g ref="char:EOLhyphen"/>filed and polluted by their uncleane Dip<g ref="char:EOLhyphen"/>pings.</p>
+               <pb n="25" facs="tcp:34473:17"/>
+               <p>Your <hi>Quaker</hi> ſo pittiful a fellow, and ſo compos'd of Nonſence, hereſie, and blaſ<g ref="char:EOLhyphen"/>phemy; hee I ſay, (though a man would admire it) hath his followers too. Would any one imagine, that an <hi>Adamite</hi> ſhould gaine Diſciples; yet they have ſo much prevail'd, (though their Doctrine be the doctrine of Devils) that their Women (ſetting all Shame and Modeſty aſide) have walked naked in the open Streets, to the view of all men.</p>
+               <p>The Angels, and Archangels (ſaith lear<g ref="char:EOLhyphen"/>ned <hi>Luther</hi>) muſt not be followed, though no falſe Doctrine fall from them; if they want the teſtimony of a lawful Calling. And he addes this Reaſon, <hi>Quia ubi non eſt vocatio &amp; mandatum, ibi non eſt Mini<g ref="char:EOLhyphen"/>ſterium.</hi> Where there is no Calling and commandment, there is no Miniſtry, <hi>Tom.</hi> 5. <hi>fol.</hi> 157.6. <hi>in explic. Pſalm.</hi> Much leſſe ſhould the People follow deceivers and falſe Prophets, who without all lawfull calling ſow nothing but Seeds of hereticall and damnable Doctrine, whoſe judgment now of long time lingreth not, and their damnation ſlumbreth not, 2 <hi>Pet.</hi> 2.3. Alas poor people; What doe you (think you) in following them. You incourage them
+<pb n="26" facs="tcp:34473:18"/> in their moſt ſinful wayes, who otherwiſe (did not you countenance them) would not dare to doe as they doe, and happily they might repent; ſhould you deſert and forſake them. Again, in following of them you cauſe the way of truth to be evill ſpo<g ref="char:EOLhyphen"/>ken of, 2 <hi>Pet.</hi> 2.2. <hi>And many</hi> (ſaith the Apoſtle) <hi>ſhall follow their pernicious waies by reaſon of whom, the way of Truth ſhall be evill ſpoken of.</hi>
+               </p>
+               <p>And is not this moſt true! By ſad ex<g ref="char:EOLhyphen"/>perience we ſee it every where. Who ſuf<g ref="char:EOLhyphen"/>fereth ſo much as the Truth! Hell now is broke looſe upon her, &amp; never was Hare ſo torne and worried by Dogs; as the Truth is by <hi>Sectaries</hi> and <hi>Heretiques.</hi> Now e<g ref="char:EOLhyphen"/>very foule mouth is opened againſt her; and ſhe is the ſcorne and deriſion of all.</p>
+               <p>The Drunkards make ſongs of her, and the abjects mowes, and ceaſe not. Well, It is impoſſible but the offences will come, but woe unto him through whom they come <hi>Luke</hi> 17.1. And woe to them, by reaſon of whom the way of truth ſhall be evill ſpoken of.</p>
+               <p>And here againe the Seduc'd people; they make but Merchandiſe of you and bring you into fooles Paradiſe. And
+<pb n="27" facs="tcp:34473:18"/> through Covetouſneſs ſhall they with feig<g ref="char:EOLhyphen"/>ned words make Merchandiſe of you, as you have it in the 3. <hi>verſe,</hi> of the foreſaid 2 Epiſt. of St. <hi>Peter,</hi> and the 2 <hi>chap.</hi> They are but for their owne ends, think of them how you pleaſe, and make Merchandiſe of you. They will tell you that <hi>Tithes,</hi> and the Miniſters lawful maintenance is un<g ref="char:EOLhyphen"/>lawfull, Antichriſtian, and a burden to the People, but 'tis to make Merchandiſe of you. J beleeve your Gratuities to them do farre exceed the tenths given to a godly Miniſter. And do you but once hold your hand; the fiery zeale of your falſe Pro<g ref="char:EOLhyphen"/>phets will ſoone freeze and be a cold. For they are greedy Dogs which can never have enough; and they are Shepheards that can<g ref="char:EOLhyphen"/>not underſtand; they all look to their own way, every one for his gain from his quar<g ref="char:EOLhyphen"/>ter, <hi>Iſaiah</hi> 56.11. <hi>Curia Romana non cap<g ref="char:EOLhyphen"/>tat ovem ſine lana;</hi> is as true as old. The Court of <hi>Rome</hi> careth not for the Sheepe that hath no fleece. And for all their ſee<g ref="char:EOLhyphen"/>ming Holineſs, and hypocriticall zeale, you will find Sirs, they make Merchandiſe of you.</p>
+               <p>Will not all this diſwade you from fol<g ref="char:EOLhyphen"/>lowing theſe falſe <hi>Lights!</hi> Think then of
+<pb n="28" facs="tcp:34473:19"/> your Soules which are in danger to be caſt away. <hi>Quid anima pulchrius!</hi> What more faire and comely then the Soule? What more precious then the Soul? Nay, what ſo precious? It muſt needs be rare, when the whole World is nothing to it: What is a man profited, if hee gaine the whole world, and looſe his owne Soule? Yet this ſo precious, ſo faire, and ſo rare a thing, thou puts to hazard, every moment.</p>
+               <p>Bethink thee prithy, when thou art going to the aſſemblies of theſe men, and weigh with thy ſelf, what thou doeſt. Thou run<g ref="char:EOLhyphen"/>neſt to the very Cannons mouth, and art in as much danger as a Ship in a ſtorme without Anchor or Cable, ready every mi<g ref="char:EOLhyphen"/>nute to be caſt away; for I may ſay of them, as <hi>Solomon</hi> of a whore: Their houſe is the way to hell, going downe to the chambers of Death, <hi>Prov.</hi> 7.27. O Lord, J pray thee, ſo to open the eyes of thy People, and ſo to inlighten their under<g ref="char:EOLhyphen"/>ſtandings, that they may know thy voyce alone in the mouth of thy faithful Mini<g ref="char:EOLhyphen"/>ſters; and that among all the changes and chances of this mortall life, they and wee, may ever be defended by thy moſt gracious and ready help, through Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="29" facs="tcp:34473:19"/>
+               <p>And now I come to my fourth and laſt Particular, <hi>viz.</hi> That every Miniſter being lawfully Called, muſt attend upon his cal<g ref="char:EOLhyphen"/>ling, without medling with Secular affairs. No man that warreth (ſaith St. <hi>Paul</hi>) en<g ref="char:EOLhyphen"/>tangleth himſelfe with the affaires of this life, &amp;c. 2 <hi>Tim.</hi> 2.4. Which words (ſaith <note n="*" place="margin">Super locum.</note> 
+                  <hi>Theophilact</hi>) are ſpoken to all Biſhops.</p>
+               <p>When there aroſe a murmuring of the <hi>Grecians</hi> againſt the <hi>Hebrewes,</hi> becauſe their Widowes were neglected in the daily Miniſtration; Then the twelve (ſaith the text) called the multitude of the Diſciples unto them, and ſaid; It is not reaſon that we ſhould leave the word of GOD, and ſerve Tables, <hi>Acts</hi> 6.1,2. <hi>Pluribus inten<g ref="char:EOLhyphen"/>tus minor eſt ad ſingula Senſus.</hi> A mans mind buſied about many things, is leſſe in<g ref="char:EOLhyphen"/>tent to any one thing alone. I hope you will beleeve him that ſaid it; a man can<g ref="char:EOLhyphen"/>not ſerve two Maſter, for either hee will love the one and hate the other, or elſe he will cleave to the one, and deſpiſe the o<g ref="char:EOLhyphen"/>ther; wee cannot ſerve <hi>GOD</hi> and <hi>Mam<g ref="char:EOLhyphen"/>mon.</hi> Even ſo, a man cannot ſerve two Callings well; for if one be followed, the other will be neglected.</p>
+               <p>If a Divine hath his thoughts too much
+<pb n="30" facs="tcp:34473:20"/> upon the world, he muſt of neceſſity be more remiſſe in the Service of God; one cannot Plough and Cart at once. The miſ<g ref="char:EOLhyphen"/>chiefe of this was ſo well knowne to our fore-Fathers, that <hi>Clerks</hi> were forbidden to meddle with Civill affaires, as unbeſee<g ref="char:EOLhyphen"/>ming <hi>Divines,</hi> and ſuch as ſerve at the Altar, <hi>Can Apoſt.</hi> 6. <hi>&amp;</hi> 82. and <hi>Concil. Chal<g ref="char:EOLhyphen"/>cedonenſ. can.</hi> 7. <hi>act.</hi> 15. <hi>Non Convenit u<g ref="char:EOLhyphen"/>num duplicem habere Profeſſionem,</hi> (ſaith St. <hi>Ambroſ.</hi>) It is not for one man to have two Profeſſions. The Prophet <hi>Iſaiah</hi> will tell you what the Office of a Miniſter is, <hi>Chap.</hi> 52. <hi>verſ.</hi> 6, 7. <hi>J have ſet Watchmen upon thy walls, O</hi> Jeruſalem, <hi>which ſhall never hold their peace day nor night: Yee that make mention of the Lord, keepe not ſilence and give him no reſt, &amp;c.</hi> When the Apoſtles were ſent forth, our Saviour ſaith; And as yee goe, <hi>Preach,</hi> ſaying; <hi>The Kingdome of heaven is at hand,</hi> Math. 10.7. <hi>and</hi> Math. 28.19,20. <hi>Goe yee there<g ref="char:EOLhyphen"/>fore, and teach all Nations &amp;c. Teaching them to obſerve, &amp;c.</hi> And to make an end, St. <hi>Paul</hi> ſaith <hi>Woe be unto me, if J Preach not the Goſpell.</hi>
+               </p>
+               <p>What can our <hi>Laicks</hi> then ſay for them<g ref="char:EOLhyphen"/>ſelves? What ſtarting holes have they
+<pb n="31" facs="tcp:34473:20"/> now? By what Divinity, or by what <hi>Lo<g ref="char:EOLhyphen"/>gick,</hi> can they prove it lawfull, to Cobble all the weeke, and Preach upon the Sab<g ref="char:EOLhyphen"/>bath day. To throw a Shuttle, and cry, <hi>What doe you lack Sir,</hi> the ſix dayes, and then preſume in God his houſe to tell a Tale, or their owne Dreames to the peo<g ref="char:EOLhyphen"/>ple? <hi>Proh pudor, Quis cui?</hi> (as they ſaid) of a ſimple unlearned man that ſuc<g ref="char:EOLhyphen"/>ceeded St. <hi>Chryſoſtome.</hi> Alas? what a ſory fellow is this? In whoſe roome is he pla<g ref="char:EOLhyphen"/>ced? So may wee juſtly exclaime againſt this froth and filth, who leap our of their Shops into a Pulpit. Alas! what ſory fel<g ref="char:EOLhyphen"/>lowes are theſe? In whoſe roome do they ſtand? And as for that Common objecti<g ref="char:EOLhyphen"/>on to maintain their actions; St. <hi>Paul</hi> was a <hi>Tent-maker,</hi> and ſome of the Apoſtles <hi>Fiſhermen</hi> &amp;c. it is ſo poore, and void of Sence, as its not worth the anſwering. In the meane time, if they be ſtill hardened, ſeeing their wayes are perverſe before the Lord, (as the Angel ſaid to <hi>Balaam</hi>) <hi>Num.</hi> 22.32. God give the People grace to avoid them as, Mariners doe rocks and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ands. And as for them; <hi>Hee that is filthy, let him be filthy ſtill,</hi> Apoc. 22.11.</p>
+               <pb n="32" facs="tcp:34473:21"/>
+               <p>And now my Brethren, and fellow la<g ref="char:EOLhyphen"/>bourers in the Lord's harveſt; Let it be farre from you to doe the work of the Lord negligently. Heare this and tremble: J charge thee therefore before GOD, and the Lord JESVS CHRIST, who ſhall judge the quick and the dead at his ap<g ref="char:EOLhyphen"/>pearing and Kingdome, &amp;c. Preach the word, being inſtant in ſeaſon, out of ſea<g ref="char:EOLhyphen"/>ſon, reprove, rebuke, exhort with all long ſuffering and Doctrine, 2 <hi>Tim.</hi> 4.12. Ne<g ref="char:EOLhyphen"/>ver were there more ravening Wolves that come in Sheepes clothing, in the memory of man; Let us have a care Sirs then of the flock. The thief (we know) commeth not but for to ſteale, and to kill, and to deſtroy, <hi>Iohn</hi> 10.10. Let us then ſtand up and defend the poor Sheep of CHRIST. If by our default, any ſhall dye in his ini<g ref="char:EOLhyphen"/>quity, his blood will God require at our hand, <hi>Ezek.</hi> 3.18.</p>
+               <p>How doth it behoove thee then (thou man of God) to looke to thy charge, and to take heed to thy Selfe, and to all the flock, over the which the Holy Ghoſt hath made thee Over-ſeer, to feed the Church of God, which hee hath purchaſed with his owne blood; (as St. <hi>Paul</hi> chargeth the
+<pb n="33" facs="tcp:34473:21"/> Elders of <hi>Epheſus, Acts</hi> 20.58. But, I bluſh to ſpeaſte it. There be many Mini<g ref="char:EOLhyphen"/>ſters that mind the world more, then the weale of their Flock. Here, one is a <hi>Phy<g ref="char:EOLhyphen"/>ſitian,</hi> another, a <hi>Lawyer,</hi> a third, a <hi>Mer<g ref="char:EOLhyphen"/>chant.</hi> One minds more the Ploughing of his field, then the ploughing up the fallow ground of mens hearts; and delights more to ſow his Land, then to caſt the ſeed of God's ſaying word into the hearts of his Congregation. You ſhall have them oftner at a Faire or Market, to buy and ſell, then at their Studies for the good of mens Soules.</p>
+               <p>Hence it is, that they are ſo cold and faint in their Exhortations and Reproofes to the people: When they ſhould be bold and lift up their voyees like Trumpe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; ſhew the people of God their tranſgreſſions and the houſe of <hi>Iacob</hi> their Sins, <hi>Iſiah,</hi> 58.1. Then <note n="*" place="margin">Exod. 14.25.</note> the Chariot wheeles of their zeale and devotion are taken off, ſo that they drive heavily. Not long ſince, if a Miniſter was abus'd undeſervedly, hee had the Law to right him (though that hedge be broken downe.) But ſaith Bi<g ref="char:EOLhyphen"/>ſhop <note n="*" place="margin">Babing. in P<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note> 
+                  <hi>Babington;</hi> If hee follow the Cow faire, and Sow faire, and ſo happen to get a broken pate, as the Law (ſaith he) in
+<pb n="34" facs="tcp:34473:22"/> this kind will not help him, ſo I (for my part) and I too, will not greatly pitty him.</p>
+               <p>And ſo I will conclude with that of St. <hi>Hierome,</hi> 
+                  <note place="margin">Hierom. ad Nepot.</note> 
+                  <hi>Neg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tiatorem Clericum ex inope divitem ex ignobili glorioſum, qua<g ref="char:EOLhyphen"/>ſi quandam peſtem fuge.</hi> A worldly Mi<g ref="char:EOLhyphen"/>niſter growne rich from poverty, glorious from baſeneſs, avoid and ſhun as a kind of Plague.</p>
+               <p>But againe (in caſe of Neceſſity) a Mi<g ref="char:EOLhyphen"/>niſter may ſtep aſide, when they way is ſo ſoule that he cannot travell; And n mar<g ref="char:EOLhyphen"/>vell, a man cannot goe on his journey, when he is turn'd out of the Road, and his Horſe taken from him. Thoſe who have loſt their Livings and expos'd to the wide world, as (God knoweth) we have too many of them, blame them not, if they endeavour in a warrantable way to main<g ref="char:EOLhyphen"/>taine themſelves. their Wives, and Chil<g ref="char:EOLhyphen"/>dren. They muſt have a care of their Re<g ref="char:EOLhyphen"/>lations. This of the Apoſtle, lyeth as nigh their doores as at any other mans, 1 <hi>Tim.</hi> 5.8. But if any provide not for his owne, and ſpecially for thoſe of his owne houſe, hee hath denied the Faith, and is worſe then an Infidell.</p>
+               <pb n="35" facs="tcp:34473:22"/>
+               <p>In this Caſe, a man of God, may uſe lawful meanes to relieve his Family, and labour with his owne hands to ſerve his Neceſſities; as that Reverend <note n="*" place="margin">The Miniſter of <hi>Seaven Oake</hi> in <hi>Kent;</hi> if he be living.</note> Divine was forced to Hedge and Ditch, &amp;c. for to feed his poore Family. Who ſo liſteth, may have the whole Pariſh to atteſt the truth of it.</p>
+               <p>Heare I pray and repent you unworthy People of the glad tidings of the Goſpell, what the Apoſtle writeth of the <hi>Galathi<g ref="char:EOLhyphen"/>ans, That if it had been poſſible, they would have plucked out their owne eyes, and have given them unto him,</hi> Galath. 4.15. Would they pluck out their Eyes? And will you pluck out their hearts? Is this beſeeming Godlineſs? Or is this accor<g ref="char:EOLhyphen"/>ding to your Profeſſion? Shall the Em<g ref="char:EOLhyphen"/>baſſadours of the high GOD find no bet<g ref="char:EOLhyphen"/>ter entertainment.</p>
+               <p>In all ages, the Prieſts and Prophets (thou Idolatrous) were ever had by the People in high eſteeme. As for Example; The Prophets of <hi>Baal,</hi> and rhey of the Groves, did eat at <hi>Jezebels</hi> table, 1 <hi>Kings</hi> 18.19. In the time of the Seven yeares Famine, when the reſt of the <hi>Egyptians</hi>
+                  <pb n="36" facs="tcp:34473:23"/> ſold their Lands, the Prieſts were excepted, and had a certaine allowance from <hi>Pharaoh.</hi> The <hi>Muzzelman</hi> (the Prieſt ſo called) is had in ſuch reverence amongſt the <hi>Turkes,</hi> that when he travelleth, every one that paſſeth by, muſt vail his bonnet to him, and bow himſelfe, and if not, hee is preſently beaten downe with clubs. The <hi>Papiſts</hi> have the like eſteeme of their Prieſts as is manifeſt by their devout deportment in the Idolatrous <hi>Maſſe,</hi> in their <hi>auricular Confeſſion;</hi> in their <hi>Penance,</hi> and in the large Salary they allow them, &amp;c.</p>
+               <p>Shall theſe Calfes Prieſts be thus re<g ref="char:EOLhyphen"/>ſpected by their blind auditory, and ſhall the people be ſo indulgent to them, as no<g ref="char:EOLhyphen"/>thing is thought too good, too deare and will you ſl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght the faithfull Miniſters of CHRIST, who doe,—<hi>Vos quaerere, non veſtra,</hi> Seeke you, not yours; And with the Apoſtle are willingly to ſpend, and to be ſpent for you? Shall they travell as it were in birth againe? Till CHRIST bee formed in you, and have they this thanke for their labour? Will you muzzell the mouth of the Ox that treadeth out the Corne? Will you not afford them the milch of the flock, who feedeth the Flock?
+<pb n="37" facs="tcp:34473:23"/> Doe yee not know that they which mini<g ref="char:EOLhyphen"/>ſter about holy things live of things or the Temple? And they which wait at the Al<g ref="char:EOLhyphen"/>tar, are partakers with the Altar? 1 <hi>Cor.</hi> 9.13. Pray reade the 14. <hi>verſe.</hi> Even ſo hath the Lord ordained, that they which Preach the Goſpel, ſhould live of the Goſpell.</p>
+               <p>How can J now keepe ſilence, or hold my tongue, when the ſacred Miniſters of God are held in ſuch Contempt? That of <hi>Burton,</hi> before his <hi>Melancholy,</hi> is moſt true,
+<q>
+                     <l>
+                        <hi>Dat Galenus <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>pes, dat Juſtinianus honores,</hi>
+                     </l>
+                     <l>
+                        <hi>Sed genus &amp; ſpecies cogitur ira pedes.</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>The rich Phyſitian, honour'd Lawyer rides,</l>
+                     <l>Whilſt the poore Scholler foots it by their ſides.</l>
+                  </q>
+               </p>
+               <p>Many may ſay with the Apoſtle. 1 <hi>Corinth.</hi> 4.11,12. Even unto this preſent houre, wee both hunger and thirſt, and are naked, and are buffetted, and have no certaine dwelling place: And labour, working with our owne hands: Being re<g ref="char:EOLhyphen"/>viled, wee bleſſe: Being perſecuted, we ſuffer it.</p>
+               <pb n="38" facs="tcp:34473:24"/>
+               <p>Where is the life of Religion, where is the power of Godlineſs, when ſuch gentil, and diabolicall acts are perpetrared amongſt us? Can yee be ſaid to honour God, love his Word, and his holy Sacra<g ref="char:EOLhyphen"/>ments, when yee ſuffer the Miniſters of GOD, of his Word, and of his Sacra<g ref="char:EOLhyphen"/>ments, to want, and beg their bread, when 'tis in your power to ſupply them? Fye; I am aſhamed to heare it, and bluſh that Chriſtians (ſo called) ſhould act the part of Infidels. Either expreſſe in Life what yee profeſſe, or profeſſe nor at all. The white Divell, (I meane a hypocrite) is <hi>Peſſimum hominum genus,</hi> the worſt ſort of men (as <hi>Muſculus</hi> writeth of an <hi>Anabaptiſt,</hi> and muſt one day expect his reward. And that is onely titular, a bare Name, the vaine applauſe of the People, who with the Ape, kills with indul<g ref="char:EOLhyphen"/>gencie.</p>
+               <p>And you that poſſeſſe their Livings, not giving authority reſt, till remov'd, and ſo force them to wayes beneath them; You muſt come to an accompt too: A whole Sea of water will not waſh away your ſtaine; It muſt bee true penitent
+<pb n="39" facs="tcp:34473:24"/> Teares in the blood of CHRIST muſt doe it, or nothing. In the interim, all the Oratory in the world ſhall never free you from the deſerv'd Epithite, <hi>Of dry Mur<g ref="char:EOLhyphen"/>therers.</hi>
+               </p>
+               <p>You know who ſpake theſe words; J have Coveted no mans Silver, or Gold, or apparell, <hi>Acts</hi> 20.33. <hi>Per hoc Lupe cognoſcuntur qui talia Concupiſcunt:</hi> Saith the ordinary Gloſſe,—By this the Wolves are knowne who covet after ſuch things.</p>
+               <p>What ſhall I ſay of you then, who have not onely coveted, but poſſeſſed, (not theſe alone) but their Houſes, Li<g ref="char:EOLhyphen"/>vings, Bookes, Arreares, &amp;c. The cloſe of the Commandement is,—<hi>Nor any thing that is thy Neighbours,</hi> Exod. 20.17. How can you then excuſe your ſelves, when you have Coveted all things. If you Sirs bee Sheepe, J know not who are Wolves. Let your voyce be what it will I am ſure your hands are the hands of <hi>Eſau.</hi>
+               </p>
+               <p>No wonder then to ſee ſome Mini<g ref="char:EOLhyphen"/>ſters labours with their hands, and to beg their Bread, when 'tis a forc'd put, and
+<pb n="40" facs="tcp:34473:25"/> 
+                  <hi>Cauſa Neceſſitatis</hi> for meere Neceſſity; I ſhall ſay no more, but end with that of holy <hi>Stephen</hi> when hee was ſtoned to Death;
+<q>Lord lay not this Sin unto their charge,
+<bibl>Acts, 7.60.</bibl>
+                  </q>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:34473:25"/>
+            <p>LONDON, Printed by <hi>T. Forcet,</hi> for the Author 1655.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
